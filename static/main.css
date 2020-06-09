@@ -7,7 +7,7 @@ body, html {
     width: 90%;
 }
 
-table, td, th {
+table, th, td {
     border: 1px solid #aaa;
 }
 
@@ -23,6 +23,7 @@ th {
 td {
     text-align: center;
     padding: 5px;
+    width: 200px;
 }
 
 .form {
